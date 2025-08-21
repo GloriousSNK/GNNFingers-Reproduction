@@ -41,6 +41,6 @@ Mean test accuracy: 0.9900990099009901
 
 Under the supervision of [Dr. Yushun Dong](https://yushundong.github.io) and [Mr. Bolin Shen](https://blshen.org)
 
-This project utilized text/code generated with the assistance of OpenAI's ChatGPT-3.5 (Nov 30 version, 2022).
+This project utilized text/code generated with the assistance of OpenAI's ChatGPT-3.5 (Nov 30 version, 2022). (Helped whenever I ran into bugs or issues)
 
 ---

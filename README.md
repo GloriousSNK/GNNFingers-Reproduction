@@ -26,8 +26,10 @@ The reproduction includes the following from the paper:
 
 ## Results
 
-<img width="536" height="393" alt="verification_curve" src="https://github.com/user-attachments/assets/3e243335-effd-44f6-99f2-e2ce46049e37" />
-<img width="536" height="393" alt="ROC_Curve" src="https://github.com/user-attachments/assets/a3ced47a-2152-421a-901b-6b038a1e6273" />
+<img width="536" height="393" alt="verification_curve" src="https://github.com/user-attachments/assets/5d167a1e-0eac-4c8d-8006-19db9c469025" />
+
+<img width="536" height="393" alt="ROC_Curve" src="https://github.com/user-attachments/assets/57119cd9-ec07-4d12-a384-50e234f0eabe" />
+
 
 ARUC: 0.99
 
